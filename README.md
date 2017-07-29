@@ -5,7 +5,7 @@ A bot intended for the Cowbelly Spam server
 Using this is very simple
 
 Step 1:
-Download the contents of "Compiled" This will be all you need to use this bot, if you are scared for your user token, you may look at the 'Source' folder, this contains the Program.cs file that this bot uses.
+Download the contents of "Compiled" This will be all you need to use this bot, you may also download the Program.cs if you want to change something. Look to the Extra Info section.
 
 Step 2:
 Once downloaded, Use your preferred text editor to open up "token.txt", The files contains insturctions on how to get your user token, 
