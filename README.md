@@ -9,8 +9,6 @@ Download the contents of "Compiled" This will be all you need to use this bot, i
 
 Step 2:
 Once downloaded, Use your preferred text editor to open up "token.txt", The files contains insturctions on how to get your user token, 
-# DO NOT SHARE YOUR USER TOKEN WITH ANYONE, I DO NOT OBTAIN YOUR TOKEN VIA THIS PROGRAM
-If you are scared of me stealing your token, you may check the source file.
 
 Step 3:
 Launch the program, you will see it go through all your servers you are on, if it doesn't, either i or you have screwed up something.
